@@ -1,24 +1,24 @@
-##Moisture_Sensor
-![image](https://statics3.seeedstudio.com/images/101020008%201.jpg)
+Bodenfeuchtigkeitssensor
+----
+*(Seeed Studio Grove – Bodenfeuchtigkeitssensor)*
 
-This Moisture Sensor can be used to detect the moisture of soil or judge if there is water around the sensor, let the plants in your garden reach out for human help. They can be very easy to use, just insert it into the soil and then read it. With the help of this sensor, it will be realizable to make the plant remind you : hey, i am thirsty now, please give me some water.
+<img src=https://www.makeyourschool.de/wp-content/uploads/2018/10/10_bodenfeuchtigkeitssensor-1024x1024.jpg width=400px>
 
-For more information, please refer to [Grove_Moisture_Sensor wiki][1]
+Der Feuchtigkeitssensor kann die Bodenfeuchtigkeit messen oder erkennen, ob er sich in Wasser befindet. Mithilfe des Grove Shields oder auch direkt kann der Sensor an einen Arduino angeschlossen werden. Er gibt über den analogen Ausgang die Bodenfeuchtigkeit an. Die Skala reicht hier von 0 (trocken) bis 900 (komplett in Wasser stehend).
+
+Hiermit können jegliche Projekte mit einer automatischen Bewässerungsanlage realisiert werden.
 
 ----
-This software is written by Frankie Chu for seeed studio<br>
-and is licensed under [The MIT License](http://opensource.org/licenses/mit-license.php). Check License.txt for more information.<br>
 
-Contributing to this software is warmly welcomed. You can do this basically by<br>
-[forking](https://help.github.com/articles/fork-a-repo), committing modifications and then [pulling requests](https://help.github.com/articles/using-pull-requests) (follow the links above<br>
-for operating guide). Adding change log and your contact into file header is encouraged.<br>
-Thanks for your contribution.
+In diesem Repository findet ihr **Bibliotheken und Beispiel-Codes**, mit denen der hier vorliegende Sensor getestet werden kann. Wir richten uns hiermit an **jeden Mentor und jede Mentorin aus dem Rahmen von Make Your School** und ermutigen euch, die hier zusammengestellten Codes **nach Bedarf** und individuell gemachten Erfahrungen **anzupassen**. Beispiele können einfach im Ordner /examples hinzugefügt oder angepasst werden. Wir versuchen das Repository regelmäßig mit Hilfe von euren Änderungsvorschlägen zu aktualisieren.
 
-Seeed is a hardware innovation platform for makers to grow inspirations into differentiating products. By working closely with technology providers of all scale, Seeed provides accessible technologies with quality, speed and supply chain knowledge. When prototypes are ready to iterate, Seeed helps productize 1 to 1,000 pcs using in-house engineering, supply chain management and agile manufacture forces. Seeed also team up with incubators, Chinese tech ecosystem, investors and distribution channels to portal Maker startups beyond.
+Das Repository basiert grundlegend auf den veröffentlichten Informationen und Codes von Seeed Studio. 
+Die deutsche Übersetzung stammt von [Make Your School](https://www.makeyourschool.de/). Fehlinterpretationen und Änderungen vorbehalten. Die Informationen dürfen frei genutzt, angepasst und verbreitet werden, solange die [Nutzungsrechte von Seeed Studio](https://github.com/Seeed-Studio/Grove_Dust_Sensor/blob/master/License.txt) beachtet werden. 
 
+**Weitere Informationen:**
 
-[1]:https://www.seeedstudio.com/s/Grove-Moisture-Sensor-p-955.html
+[Repository von Seed Studio](https://github.com/Seeed-Studio/)
 
+[Offizielles Wiki von Seed Studio](http://wiki.seeedstudio.com/Grove/)
 
-[![Analytics](https://ga-beacon.appspot.com/UA-46589105-3/Moisture_Sensor)](https://github.com/igrigorik/ga-beacon)
-
+[Materialkoffer von Make Your School](https://www.makeyourschool.de/material/)
